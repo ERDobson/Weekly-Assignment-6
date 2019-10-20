@@ -1,0 +1,12 @@
+Eric Dobson  Weekly Assignment 6 question answers:
+1)  I found 12 HSP's overall in my entire Unkblast.txt file.  I found 3 from "block 1", 2 in block 2, 1 in block 3, 3 in block 4,
+just one in block 5, and two acceptable matches in block 6. That's a total of 12.
+2)I found my HSP's by examining the read length and % identity since they were listed closely together on the left-hand side of the data
+list. Then using the graph from the in-class powerpoint, made a quick paper list of possible "yes" matches.  Lastly, I checked the paper
+list against the e-values for the same entries, and removed a few more, but accepted e-values under 1 at this point.  
+3)  Not all 12 could be considered to be paralogs.  My HSP's with really low e-values would be the best paralog finds.  Using a cut-off of,
+say, 0.01 for e-values, my list shrinks by 3, leaving just 9 decent HSP matches.
+4) Paralogs must be near-perfect matches to the archived sequence, so really low e-values are necessary.  Many "hits" in the .txt file
+that were good on the graphical chart didn't pan out.  They often had values of 0.2 or higher, so I would not include them in the paralog
+list
+5)My final list was Unk_  numbers 1985, 1863, 1860, 30, 31, 1842, 301, 1187, and 1970.
